@@ -1,0 +1,11 @@
+#miraculous{
+    display: none;
+}
+#gatinho{
+    display: none;
+}
+#canvinha {
+    background-image: url(Paris.png);
+    background-size: cover;
+    background-repeat: round;
+}
